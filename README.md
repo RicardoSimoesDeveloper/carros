@@ -1,6 +1,6 @@
 # 🚗 Sistema de Cadastro de Carros
 
-Este é um sistema simples de **cadastro de carros**, desenvolvido com **Laravel 10** (backend) e **Blade** (frontend). O objetivo do projeto é permitir o gerenciamento de uma lista de carros, com funcionalidades de criação, listagem, edição e exclusão.
+Este é um sistema simples de CRUD para **cadastro de carros**, desenvolvido com **Laravel 10** (backend) e **Blade** (frontend). O objetivo do projeto é permitir o gerenciamento de uma lista de carros, com funcionalidades de criação, listagem, edição e exclusão.
 
 ## 🔧 Tecnologias Utilizadas
 
